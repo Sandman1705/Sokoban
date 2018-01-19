@@ -22,7 +22,7 @@ Pravila
 Sokoban je slagalica u kojoj igrač gura kutije u lavirintu, gledano odozgo, i pokušava da ih stavi na prethodno određena mesta. Samo jedna kutija se može gurati u isto vreme, i kutije se ne mogu povući. Broj kutija je jednak broju određenih lokacija.
 
 ========
-Istorjia
+Istorija
 ========
 
 Sokoban je 1981 godine napravio Hirojuki Imabajaši (Hiroyuki Imabayashi) i objavljena je 1982 od strane Thinking Rabbit-a, softverske kuće iz Takarazuke u Japanu. Za dizajn igrice se govori da je osvojio prvo mesto na takmičenju kompjuterskih igara. Zbog svoje jednostavnosti i elegancije pravila kao i intelektualno izazivajuće kompleksnosti sastavljenih problema Sokoban je ubrzo postao popularna razonoda.
